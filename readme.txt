@@ -1,4 +1,4 @@
-Objectif :
+# Objectif :
 Améliorer la typographie de texte en utilisant des propriétés css comme : font, line-height, color , margin et padding ... 
 
 Travail à faire : 
